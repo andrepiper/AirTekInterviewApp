@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AirTek.Utils\AirTek.Utils.csproj" />
+    <ProjectReference Include="..\Backend.DAL\AirTek.Data.csproj" />
+  </ItemGroup>
+
+</Project>

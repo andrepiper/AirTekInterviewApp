@@ -1,0 +1,38 @@
+[
+	{
+		"Day": 1,
+		"Flight": 1,
+		"Outbound": "YUL",
+		"Inbound": "YYZ"
+	},
+	{
+		"Day": 1,
+		"Flight": 2,
+		"Outbound": "YUL",
+		"Inbound": "YYC"
+	},
+	{
+		"Day": 1,
+		"Flight": 3,
+		"Outbound": "YUL",
+		"Inbound": "YVR"
+	},
+	{
+		"Day": 2,
+		"Flight": 4,
+		"Outbound": "YUL",
+		"Inbound": "YYZ"
+	},
+	{
+		"Day": 2,
+		"Flight": 5,
+		"Outbound": "YUL",
+		"Inbound": "YYC"
+	},
+	{
+		"Day": 2,
+		"Flight": 6,
+		"Outbound": "YUL",
+		"Inbound": "YVR"
+	}
+]
